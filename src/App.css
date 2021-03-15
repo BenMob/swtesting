@@ -48,9 +48,8 @@
   flex-direction: column;
   width: 90%;
   min-height: 90%;
-  margin: 5px;
+  margin: 0px;
   align-items: center;
-  justify-content: center;
   border: solid 1px grey;
   box-shadow: grey 1px 1px 6px 0px;
   border-radius: 10px;
@@ -60,6 +59,7 @@
 
 .container2{
   display: flex;
+  margin-top: 20px;
   justify-content: center;
   width: 75%;
   border-radius: 10px;
