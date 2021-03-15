@@ -198,7 +198,7 @@ function SWTest() {
                         <p>alpha2: <span>{thealpha2}</span> </p>
                     </div>
                     <div className="flex-start">
-                        <p>signNum: <span>{thesignSignum}</span> </p>
+                        <p>sameSignum: <span>{thesignSignum}</span> </p>
                     </div>
                 </div> 
                 <div className="section">
